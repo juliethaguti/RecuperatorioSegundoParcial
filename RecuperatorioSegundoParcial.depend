@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1514623655 source:c:\users\julieta\documents\utn\laboratorio1\recuperatoriosegundoparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1513693953 c:\users\julieta\documents\utn\laboratorio1\recuperatoriosegundoparcial\arraylist.h
+
+1517700408 source:c:\users\julieta\documents\utn\laboratorio1\recuperatoriosegundoparcial\eletra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Eletra.h"
+	"Validaciones.h"
+
+1517625321 c:\users\julieta\documents\utn\laboratorio1\recuperatoriosegundoparcial\eletra.h
+	"ArrayList.h"
+
+1513704147 source:c:\users\julieta\documents\utn\laboratorio1\recuperatoriosegundoparcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1513704147 c:\users\julieta\documents\utn\laboratorio1\recuperatoriosegundoparcial\validaciones.h
+
+1514074707 source:c:\users\julieta\documents\utn\laboratorio1\recuperatoriosegundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Eletra.h"
+	"Validaciones.h"
+
